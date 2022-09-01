@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiendung99.Core.Entity", "tiendung99.Core.Entity\tiendung99.Core.Entity.csproj", "{0426A4DF-B8FF-41C6-96E7-245513D7FED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiendung99.Core.Service", "tiendung99.Core.Service\tiendung99.Core.Service.csproj", "{AA50ACAE-1CE0-482A-BF58-3C1EED621DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0426A4DF-B8FF-41C6-96E7-245513D7FED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0426A4DF-B8FF-41C6-96E7-245513D7FED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0426A4DF-B8FF-41C6-96E7-245513D7FED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0426A4DF-B8FF-41C6-96E7-245513D7FED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA50ACAE-1CE0-482A-BF58-3C1EED621DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA50ACAE-1CE0-482A-BF58-3C1EED621DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA50ACAE-1CE0-482A-BF58-3C1EED621DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA50ACAE-1CE0-482A-BF58-3C1EED621DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F7B2E76-EBAF-4D3A-8740-FCB54125A515}
+	EndGlobalSection
+EndGlobal
