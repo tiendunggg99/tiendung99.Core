@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tiendung99.Core.Entity", "t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tiendung99.Core.Service", "tiendung99.Core.Service\tiendung99.Core.Service.csproj", "{AA50ACAE-1CE0-482A-BF58-3C1EED621DAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiendung99.Core.Log4Net", "tiendung99.Core.Log4Net\tiendung99.Core.Log4Net.csproj", "{5A795602-EB1C-4429-943A-E11AE0BEB049}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{AA50ACAE-1CE0-482A-BF58-3C1EED621DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA50ACAE-1CE0-482A-BF58-3C1EED621DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA50ACAE-1CE0-482A-BF58-3C1EED621DAD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5A795602-EB1C-4429-943A-E11AE0BEB049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A795602-EB1C-4429-943A-E11AE0BEB049}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A795602-EB1C-4429-943A-E11AE0BEB049}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A795602-EB1C-4429-943A-E11AE0BEB049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
